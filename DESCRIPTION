@@ -1,10 +1,10 @@
-Package: marathontime
+Package: Racetime prediction
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Racetime prediction
 Version: 0.1
 Date: 2016-07-14
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Koen Spoorenberg
+Maintainer: kspoorenberg@vxcompany.com
+Description: The app demonstrates the 'Race time prediction' algoritm developed by Peter Riegel. An algoritm which predicts running times based on races over different distances.
+License: none
 LazyData: TRUE
