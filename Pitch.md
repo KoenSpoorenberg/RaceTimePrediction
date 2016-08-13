@@ -1,7 +1,7 @@
 Course Project: Developing data projects - Shiny application and reproducable pitch
 ========================================================
 author: Koen Spoorenberg
-date: `r date()`
+date: Sat Aug 13 10:07:11 2016
 transition: zoom
 
 Overview
