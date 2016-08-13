@@ -2,21 +2,19 @@
 title: "ReadMe"
 author: "Koen Spoorenberg"
 date: "12 August 2016"
-output: html_document
+output: word_document
 ---
+Glossery:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+This was built as part of a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+- The app demonstrates the 'Race time prediction' algoritm developed by Peter Riegel. An algoritm which predicts running times based on races over different distances.
+- There are more algoritms available(for example the VO2 max prediction/Cameron formula/Purdy formula). These algoritms are more difficult and do not seem to over a much better prediction.
+- The app developed for the first part of the assignment demo is avalilable at: https://kspoorenberg.shinyapps.io/Racetime_prediction_in_running/
+- Source code for ui.R and server.R files are available on the GitHub repo:https://github.com/KoenSpoorenberg/RaceTimePrediction
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+How to use the app:
 
-```{r}
-summary(cars)
-```
+Change one of the parameters in the left pane and press submit. 
+Results will be displayed in the right pane.
 
-You can also embed plots, for example:
 
-```{r, echo=FALSE}
-plot(cars)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
