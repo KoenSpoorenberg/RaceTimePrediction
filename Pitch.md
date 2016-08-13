@@ -1,16 +1,16 @@
 Course Project: Developing data projects - Shiny application and reproducable pitch
 ========================================================
 author: Koen Spoorenberg
-date: Sat Aug 13 10:07:11 2016
+date: Sat Aug 13 10:28:32 2016
 transition: zoom
 
 Overview
 ========================================================
-This was built as part of a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+This was built as part of a deliverable for the course Developing Data Products(Coursera Data Science).
 - The app demonstrates the 'Race time prediction' algoritm developed by Peter Riegel. An algoritm which predicts running times based on races over different distances.
 - There are more algoritms available(for example the VO2 max prediction/Cameron formula/Purdy formula). These algoritms are more difficult and do not seem to over a much better prediction.
 - The app developed for the first part of the assignment demo is avalilable at: https://kspoorenberg.shinyapps.io/Racetime_prediction_in_running/
-- Source code for ui.R and server.R files are available on the GitHub repo:https://github.com/KoenSpoorenberg/RaceTimePrediction
+- Source code for ui.R and server.R files are available on the GitHub:https://github.com/KoenSpoorenberg/RaceTimePrediction
 
 
 Peter Riegel
